@@ -84,6 +84,7 @@ let a = 2;
     console.log('initialization 2: ', y);
     // var y
 
-    let z = 20;
+    let z = "light";
+    console.log(z);
 
     // We've set our variable with our let keyword. With each iteration, we have redeclared what it is.
